@@ -43,4 +43,12 @@
   - Geospatial
   - Transfer Learning
   - Generative AI
+ 
+**Banking Industry:**
+
+* Mastering Fraud Detection: A Data Science Workshop for Banking Security
+* Credit Scoring Excellence: Advanced Analytics for Risk Assessment in Banking
+* Customer Segmentation Strategies: Data-Driven Marketing in Banking
+* Churn Prediction and Retention Tactics: A Data Science Approach for Banking
+* Customer Sentiment Analysis
 
