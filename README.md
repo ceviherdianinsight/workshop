@@ -57,21 +57,21 @@ ____
 
 Some of the clients:
 
--Universitas Padjajaran
--KOMINFO
--PELINDO II
--JICT
--Belant
--Universitas Tidar
--Bank Sumselbabel
--Bank Papua
--KEMENLU
--Politeknik Negeri Semarang
--Bank Kalteng
--Bank Sulselbar
--PT Clue
--Bank DKI
--Bakrie Group
--Universitas Bunda Mulia
+- Universitas Padjajaran
+- Kementerian Komunikasi dan Informatik (KOMINFO)
+- PELINDO II
+- JICT (Jakarta International Container Terminal
+- PT Belant
+- Universitas Tidar
+- Bank Sumselbabel
+- Bank Papua
+- Kementerian Luar Negeri (KEMENLU)
+- Politeknik Negeri Semarang
+- Bank Kalteng
+- Bank Sulselbar
+- PT Clue
+- Bank DKI
+- Bakrie Group
+- Universitas Bunda Mulia
 
 
