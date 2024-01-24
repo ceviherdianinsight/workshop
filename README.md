@@ -1,7 +1,7 @@
 # A B2B Workshop
 
 
-**General Training: Awareness**
+**🛫 General Training: Awareness**
 
 * Data Literacy 101: A Beginner's Guide to Understanding Data
 * Introduction to Data Analytics: Building a Foundation for Success
@@ -25,14 +25,14 @@
 * Data-Driven Decision Making: A Beginner's Workshop on Critical Thinking
 * Code Free Data Science
 
-**Tableau Data Visualization:**
+**📊 Tableau Data Visualization:**
 
 * Tableau Fundamental
 * Tableau Intermediate
 * Tableau Advanced
 
 
-**AI/ Data Science / Machine Learning:**
+**🦾 AI/ Data Science / Machine Learning:**
 * Level 1: Introduction to Machine Learning (Beginner)
 * Level 2: Intermediate Machine Learning Skills
 * Level 3: Advanced Machine Learning Techniques
@@ -45,7 +45,7 @@
   - Transfer Learning
   - Generative AI
  
-**Banking Industry:**
+**🏦 Banking Industry:**
 
 * Mastering Fraud Detection: A Data Science Workshop for Banking Security
 * Credit Scoring Excellence: Advanced Analytics for Risk Assessment in Banking
