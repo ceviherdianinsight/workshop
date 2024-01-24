@@ -35,11 +35,11 @@
 * Level 1: Foundations of Data Science (Beginner)
 * Level 2: Intermediate Data Science Skills
 * Level 3: Level 3: Advanced Data Science Techniques
-* Level 4: Specialized Topics and Applications (NLP, Computer Vision, Advanced Statistics)
+* Level 4: Specialized Topics and Applications (NLP, Computer Vision, )
 
-**Machine Learning:**
+**AI/ Data Science / Machine Learning:**
 * Level 1: Introduction to Machine Learning (Beginner)
 * Level 2: Intermediate Machine Learning Skills
 * Level 3: Advanced Machine Learning Techniques
-* Level 4: Specialized Topics and Applications (NLP, Computer Vision, Transfer Learning, Generative AI)
+* Level 4: Specialized Topics and Applications (NLP, Computer Vision, Advanced Statistics, Time Series, Geospatial, Transfer Learning, Generative AI)
 
