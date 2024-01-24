@@ -35,5 +35,12 @@
 * Level 1: Introduction to Machine Learning (Beginner)
 * Level 2: Intermediate Machine Learning Skills
 * Level 3: Advanced Machine Learning Techniques
-* Level 4: Specialized Topics and Applications (NLP, Computer Vision, Advanced Statistics, Time Series, Geospatial, Transfer Learning, Generative AI)
+* Level 4: Specialized Topics and Applications:
+  - NLP (Natural Language Processing)
+  - Computer Vision
+  - Advanced Statistics
+  - Time Series
+  - Geospatial
+  - Transfer Learning
+  - Generative AI
 
