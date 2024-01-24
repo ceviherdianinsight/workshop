@@ -55,4 +55,20 @@ ____
 
 Some of the clients:
 
+-Universitas Padjajaran
+-KOMINFO
+-PELINDO II
+-JICT
+-Belant
+-Universitas Tidar
+-Bank Sumselbabel
+-Bank Papua
+-KEMENLU
+-Politeknik Negeri Semarang
+-Bank Kalteng
+-Bank Sulselbar
+-PT Clue
+-Bank DKI
+-Bakrie Group
+
 
