@@ -31,12 +31,6 @@
 * Tableau Advanced
 
 
-**Data Science:**
-* Level 1: Foundations of Data Science (Beginner)
-* Level 2: Intermediate Data Science Skills
-* Level 3: Level 3: Advanced Data Science Techniques
-* Level 4: Specialized Topics and Applications (NLP, Computer Vision, )
-
 **AI/ Data Science / Machine Learning:**
 * Level 1: Introduction to Machine Learning (Beginner)
 * Level 2: Intermediate Machine Learning Skills
