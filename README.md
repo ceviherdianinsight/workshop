@@ -23,6 +23,7 @@
 * Hands-On Data Cleaning: A Practical Workshop
 * Data Ethics for Beginners: Navigating the Moral Landscape
 * Data-Driven Decision Making: A Beginner's Workshop on Critical Thinking
+* Code Free Data Science
 
 **Tableau Data Visualization:**
 
