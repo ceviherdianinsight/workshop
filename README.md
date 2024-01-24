@@ -1,4 +1,4 @@
-# A VVIP B2B Workshop by itsmecevi.github.io
+# A B2B Workshop
 
 
 **General Training: Awareness**
@@ -25,6 +25,10 @@
 * Data-Driven Decision Making: A Beginner's Workshop on Critical Thinking
 
 **Tableau Data Visualization:**
+
+* Tableau Fundamental
+* Tableau Intermediate
+* Tableau Advanced
 
 
 **Data Science:**
