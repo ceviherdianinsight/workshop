@@ -72,5 +72,6 @@ Some of the clients:
 -PT Clue
 -Bank DKI
 -Bakrie Group
+-Universitas Bunda Mulia
 
 
