@@ -33,8 +33,6 @@
 
 **Data Science:**
 * Level 1: Foundations of Data Science (Beginner)
-  - Understanding Data: Introduction to data types, sources, and basic concepts.
-  - Basics of Statistics: Descriptive statistics, probability, and distributions.
-  - Introduction to Programming: Basics of a programming language (e.g., Python or R).
-  - Data Exploration and Cleaning: Basics of data cleaning and preprocessing.
 * Level 2: Intermediate Data Science Skills
+* Level 3: Level 3: Advanced Data Science Techniques
+* Level 4: Specialized Topics and Applications (NLP, Computer Vision, Advanced Statistics)
