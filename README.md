@@ -73,8 +73,8 @@ Some of the clients:
 - PT Clue
 - Bank DKI
 - Bakrie Group
-- Universitas Bunda Mulia
-
+- Innovez One Singapore
+  
 by: itsmecevi.github.io
 
 
