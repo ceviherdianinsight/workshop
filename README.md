@@ -70,10 +70,9 @@ Some of the clients:
 - Politeknik Negeri Semarang
 - Bank Kalteng
 - Bank Sulselbar
-- PT Clue
+- PT Clue Media Nusantara
 - Bank DKI
 - Bakrie Group
-- Innovez One Singapore
   
 by: itsmecevi.github.io
 
