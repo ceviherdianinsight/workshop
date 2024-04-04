@@ -1,4 +1,3 @@
-### Gertaone Project
 ### A B2B Workshop
 
 
