@@ -73,6 +73,7 @@ Some of the clients:
 - PT Clue Media Nusantara
 - Bank DKI
 - Bakrie Group
+- UIN Jakarta
   
 by: [itsmecevi.github.io](https://itsmecevi.github.io/)
 
