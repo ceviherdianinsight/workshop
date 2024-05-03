@@ -62,13 +62,16 @@ Some of the clients:
 - Kementerian Komunikasi dan Informatik (KOMINFO)
 - PELINDO II
 - JICT (Jakarta International Container Terminal
+- Universitas Subang
 - PT Belant
 - Universitas Tidar
 - Bank Sumselbabel
+- Sangga Buana Institut
 - Bank Papua
 - Kementerian Luar Negeri (KEMENLU)
 - Politeknik Negeri Semarang
 - Bank Kalteng
+- Universitas Sangga Buana
 - Bank Sulselbar
 - PT Clue Media Nusantara
 - Bank DKI
