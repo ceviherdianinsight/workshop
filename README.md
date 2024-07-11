@@ -58,7 +58,7 @@
 
 ____
 
-Some of the clients:
+**🏢 Some of the clients:**
 
 - Universitas Padjajaran
 - Kementerian Komunikasi dan Informatik (KOMINFO)
@@ -81,113 +81,7 @@ Some of the clients:
 - UIN Jakarta
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Clients List</title>
-    <style>
-        .clients-list {
-            list-style-type: none;
-            padding: 0;
-        }
-        .client-item {
-            display: flex;
-            align-items: center;
-            margin-bottom: 10px;
-        }
-        .client-item img {
-            width: 50px; /* Adjust the size as needed */
-            height: auto;
-            margin-right: 10px;
-        }
-    </style>
-</head>
-<body>
 
-<h2>Some of the clients:</h2>
-<ul class="clients-list">
-    <li class="client-item">
-        <img src="path/to/universitas-padjajaran-logo.png" alt="Universitas Padjajaran">
-        Universitas Padjajaran
-    </li>
-    <li class="client-item">
-        <img src="path/to/kominfo-logo.png" alt="Kementerian Komunikasi dan Informatik (KOMINFO)">
-        Kementerian Komunikasi dan Informatik (KOMINFO)
-    </li>
-    <li class="client-item">
-        <img src="path/to/pelindo-ii-logo.png" alt="PELINDO II">
-        PELINDO II
-    </li>
-    <li class="client-item">
-        <img src="path/to/jict-logo.png" alt="JICT (Jakarta International Container Terminal)">
-        JICT (Jakarta International Container Terminal)
-    </li>
-    <li class="client-item">
-        <img src="path/to/universitas-subang-logo.png" alt="Universitas Subang">
-        Universitas Subang
-    </li>
-    <li class="client-item">
-        <img src="path/to/pt-belant-logo.png" alt="PT Belant">
-        PT Belant
-    </li>
-    <li class="client-item">
-        <img src="path/to/universitas-tidar-logo.png" alt="Universitas Tidar">
-        Universitas Tidar
-    </li>
-    <li class="client-item">
-        <img src="path/to/bank-sumselbabel-logo.png" alt="Bank Sumselbabel">
-        Bank Sumselbabel
-    </li>
-    <li class="client-item">
-        <img src="path/to/sangga-buana-institut-logo.png" alt="Sangga Buana Institut">
-        Sangga Buana Institut
-    </li>
-    <li class="client-item">
-        <img src="path/to/bank-papua-logo.png" alt="Bank Papua">
-        Bank Papua
-    </li>
-    <li class="client-item">
-        <img src="path/to/kemenlu-logo.png" alt="Kementerian Luar Negeri (KEMENLU)">
-        Kementerian Luar Negeri (KEMENLU)
-    </li>
-    <li class="client-item">
-        <img src="path/to/politeknik-negeri-semarang-logo.png" alt="Politeknik Negeri Semarang">
-        Politeknik Negeri Semarang
-    </li>
-    <li class="client-item">
-        <img src="path/to/bank-kalteng-logo.png" alt="Bank Kalteng">
-        Bank Kalteng
-    </li>
-    <li class="client-item">
-        <img src="path/to/universitas-sangga-buana-logo.png" alt="Universitas Sangga Buana">
-        Universitas Sangga Buana
-    </li>
-    <li class="client-item">
-        <img src="path/to/bank-sulselbar-logo.png" alt="Bank Sulselbar">
-        Bank Sulselbar
-    </li>
-    <li class="client-item">
-        <img src="path/to/pt-clue-media-nusantara-logo.png" alt="PT Clue Media Nusantara">
-        PT Clue Media Nusantara
-    </li>
-    <li class="client-item">
-        <img src="path/to/bank-dki-logo.png" alt="Bank DKI">
-        Bank DKI
-    </li>
-    <li class="client-item">
-        <img src="path/to/bakrie-group-logo.png" alt="Bakrie Group">
-        Bakrie Group
-    </li>
-    <li class="client-item">
-        <img src="path/to/uin-jakarta-logo.png" alt="UIN Jakarta">
-        UIN Jakarta
-    </li>
-</ul>
-
-</body>
-</html>
 
   
 by: [itsmecevi.github.io](https://itsmecevi.github.io/)
