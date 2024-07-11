@@ -1,4 +1,6 @@
-### Cevi Herdian Insight B2B Workshop
+### Cevi Herdian Insight 
+
+### A B2B Workshop
 
 
 **🛫 General Training: Awareness**
