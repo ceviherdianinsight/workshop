@@ -54,6 +54,7 @@
 * Customer Segmentation Strategies: Data-Driven Marketing in Banking
 * Churn Prediction and Retention Tactics: A Data Science Approach for Banking
 * Customer Sentiment Analysis
+* Transforming KPIs with Predictive Analytics: Strategies and Techniques
 
 
 ____
