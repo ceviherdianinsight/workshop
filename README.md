@@ -33,6 +33,21 @@
 * Tableau Intermediate
 * Tableau Advanced
 
+**📈 KNIME Analytics Software:**
+
+* KNIME Basic
+* KNIME Advanced
+* KNIME Productionizing Data Apps
+* KNIME Data Analytics and Visualization
+* KNIME Data Engineering
+* KNIME Machine Learning
+* KNIME Deep Learning
+* KNIME Time Series Analysis
+* KNIME Text Processing
+* KNIME Chemical Data
+* KNIME Business Hub Administration
+* KNIME Server Administration
+
 
 **🦾 AI/ Data Science / Machine Learning:**
 * Level 1: Introduction to Machine Learning (Beginner)
