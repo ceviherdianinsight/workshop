@@ -59,6 +59,9 @@
 * Portfolio Management
 * Risk Management
 * Capstone Project/Custome Use Case (Company give the problem, we try to solve)
+* MetaTrader 5 Basic
+* MetaTrader 5 Intermediate
+* MetaTrader 5 Advanced
 
 **🦾 AI/ Data Science / Machine Learning:**
 * Level 1: Introduction to Machine Learning (Beginner)
