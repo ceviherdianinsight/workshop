@@ -48,6 +48,17 @@
 * KNIME Business Hub Administration
 * KNIME Server Administration
 
+**💹 Quantitative Finance:**
+* Financial Market
+* Financial Data
+* Financial Econometrics
+* Derivatives Pricing
+* Stochastic Modeling
+* Machine Learning in Finance
+* Deep Learning in Finance
+* Portfolio Management
+* Risk Management
+* Capstone Project/Custome Use Case (Company give the problem, we try to solve)
 
 **🦾 AI/ Data Science / Machine Learning:**
 * Level 1: Introduction to Machine Learning (Beginner)
